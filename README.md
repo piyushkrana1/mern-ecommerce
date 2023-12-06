@@ -4,7 +4,7 @@ Brief description or tagline about your website.
 
 ## Live Link
 
-[Visit the live website]([https://your-website-url.com](https://mern-ecommerce-liart-seven.vercel.app/))
+[Visit the live website](https://your-website-url.com](https://mern-ecommerce-liart-seven.vercel.app/)
 
 ## Description
 
